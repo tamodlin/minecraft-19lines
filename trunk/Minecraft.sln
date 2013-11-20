@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft", "Minecraft.csproj", "{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
