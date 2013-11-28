@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft", "Minecraft.csproj", "{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minecraft20", "Minecraft20\Minecraft20.csproj", "{475183A7-F35A-4BB6-8564-0C0D4269E73E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CDEA2640-DD03-43D0-83D0-1A7ECFD098BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{475183A7-F35A-4BB6-8564-0C0D4269E73E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{475183A7-F35A-4BB6-8564-0C0D4269E73E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{475183A7-F35A-4BB6-8564-0C0D4269E73E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{475183A7-F35A-4BB6-8564-0C0D4269E73E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
